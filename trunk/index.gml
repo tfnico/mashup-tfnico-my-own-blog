@@ -16,13 +16,63 @@
     </thead>
     <tbody>
     <tr repeat="true">
-      <td><gm:text ref="atom:title"/></td>
+      <td><gm:link ref="atom:link[@rel='alternate']/@href" labelref="atom:title"/></td>
       <td><gm:date ref="atom:published"/></td>
     </tr>
     <tbody>
   </table>
  </gm:template>
 </gm:page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
